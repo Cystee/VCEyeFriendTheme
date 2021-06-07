@@ -15,6 +15,9 @@
         "color": "#052529",
         "theme": "dark"
     },
+    "repository": {
+        "url": "https://github.com/Cystee/VCEyeFriendTheme.git"
+    },
     "scripts": {
         "build": "node src/build.mjs",
         "release:major---": "npm run build && git add . && git commit -m 🆕10.0.0🆕 && npm version major & vsce publish && git push",
