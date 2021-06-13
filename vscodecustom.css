@@ -6,7 +6,7 @@ you can comment out this part if you don't want to change the default font for t
 
 .monaco-workbench {
    font-feature-settings: "ss01";
-   font-family: "Cartograph Mono CF", monospace;
+   font-family: Source Code Pro, Monaco, Consolas, Microsoft Yahei UI, Unifont, 'Courier New', monospace, Minecraft Seven
 }
 
 /* /// REQUIRED ///
@@ -16,5 +16,5 @@ classes for italics
 */
 [class^="mtk"].mtki {
    font-feature-settings: "ss01";
-   font-family: "Cartograph Mono CF";
+   font-family: Source Code Pro, Monaco, Consolas, Microsoft Yahei UI, Unifont, 'Courier New', monospace, Minecraft Seven
 }
