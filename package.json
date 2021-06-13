@@ -2,7 +2,7 @@
     "name": "vceyefriendtheme",
     "displayName": "VCEyeFriendTheme",
     "description": "Orign Noctis & Monokai Pro.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "Cystee",
     "icon": "image/vceye_logo.png",
     "engines": {
@@ -26,7 +26,8 @@
         "eyeFriend"
     ],
     "contributes": {
-        "themes": [{
+        "themes": [
+            {
                 "label": "Eye Friend",
                 "uiTheme": "vs-dark",
                 "path": "./themes/eyeFriend.json"
