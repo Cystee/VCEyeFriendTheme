@@ -1,8 +1,8 @@
 {
     "name": "vceyefriendtheme",
     "displayName": "VCEyeFriendTheme",
-    "description": "Orign Noctis & Monokai Pro.",
-    "version": "1.0.2",
+    "description": "Orign Noctis & Community Material Theme & Monokai Pro.",
+    "version": "1.0.3",
     "publisher": "Cystee",
     "icon": "image/vceye_logo.png",
     "engines": {
@@ -23,7 +23,9 @@
         "Other"
     ],
     "keywords": [
-        "eyeFriend"
+        "eyeFriend",
+        "VSCode",
+        "Themes"
     ],
     "contributes": {
         "themes": [
@@ -31,6 +33,11 @@
                 "label": "Eye Friend",
                 "uiTheme": "vs-dark",
                 "path": "./themes/eyeFriend.json"
+            },
+            {
+                "label": "Eye Friend MD",
+                "uiTheme": "vs-dark",
+                "path": "./themes/eyeFriendMD.json"
             }
         ]
     }
