@@ -8,4 +8,5 @@
 
 # What's New?
 
-Added Material Style.
+- 1.0.3 Added Material Style.
+- 1.1.0 Added Monakai Material Style.

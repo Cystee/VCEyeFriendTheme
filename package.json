@@ -2,7 +2,7 @@
     "name": "vceyefriendtheme",
     "displayName": "VCEyeFriendTheme",
     "description": "Orign Noctis & Community Material Theme & Monokai Pro.",
-    "version": "1.0.3",
+    "version": "1.1.0",
     "publisher": "Cystee",
     "icon": "image/vceye_logo.png",
     "engines": {
@@ -38,6 +38,11 @@
                 "label": "Eye Friend MD",
                 "uiTheme": "vs-dark",
                 "path": "./themes/eyeFriendMD.json"
+            },
+            {
+                "label": "Eye Friend MM",
+                "uiTheme": "vs-dark",
+                "path": "./themes/eyeFriendMM.json"
             }
         ]
     }
